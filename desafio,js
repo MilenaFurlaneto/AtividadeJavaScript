@@ -1,0 +1,3 @@
+const numero = 324652215;
+const raizQuadrada = Math.sqrt(numero);
+console.log ('A raiz de' + numero+ 'é' +raizQuadrada);
