@@ -1,0 +1,2 @@
+livros = ['Mateus', 'Marcos', 'Lucas', 'João', 'Atos', 'Romanos', 'Coríntios', 'Coríntios', 'Galátas', 'Efésios', 'Filipenses', 'Colossenses', 'Tessanolicenses', 'Tessanolicenses', "Timóteo", 'Timóteo', 'Tito', 'Filemom', 'Hebreus', 'Tiago', 'Pedro', 'Pedro', 'João', 'João', 'João', 'Judas', 'Apocalipse']
+console.log ("O novo testamento possui: " + livros.length + ' livros')
